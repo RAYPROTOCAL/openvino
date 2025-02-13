@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/dev/assets/openvino-logo-purple-black.svg" width="400px">
+<img src="openvino-logo-purple-black.svg" width="400px">
 
 [![PyPI Status](https://badge.fury.io/py/openvino.svg)](https://badge.fury.io/py/openvino)
 [![Anaconda Status](https://anaconda.org/conda-forge/openvino/badges/version.svg)](https://anaconda.org/conda-forge/openvino)
