@@ -1,7 +1,7 @@
 <div align="center">
 <img src="openvino-logo-purple-black.svg" width="400px">
 
-[![X](https://badge.fury.io/py/openvino.svg)](https://x.com/HNBCAS)
+[![X])](https://x.com/HNBCAS)
 [![Anaconda Status](https://anaconda.org/conda-forge/openvino/badges/version.svg)](https://anaconda.org/conda-forge/openvino)
 [![brew Status](https://img.shields.io/homebrew/v/openvino)](https://formulae.brew.sh/formula/openvino)
 
